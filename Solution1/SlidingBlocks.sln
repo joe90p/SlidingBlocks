@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIService", "..\WcfService1\AIService.csproj", "{D929F9EC-600E-4268-83AC-45299129E40E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStar2012", "..\AStar\AStar2012.csproj", "{13B0C282-1797-4E8E-83FD-5FE77EE8685E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingBlocks", "..\WebApplication1\SlidingBlocks.csproj", "{9DD4B3FD-088D-46D9-B9AE-79511AB2BDDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D929F9EC-600E-4268-83AC-45299129E40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D929F9EC-600E-4268-83AC-45299129E40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D929F9EC-600E-4268-83AC-45299129E40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D929F9EC-600E-4268-83AC-45299129E40E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B0C282-1797-4E8E-83FD-5FE77EE8685E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B0C282-1797-4E8E-83FD-5FE77EE8685E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B0C282-1797-4E8E-83FD-5FE77EE8685E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B0C282-1797-4E8E-83FD-5FE77EE8685E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD4B3FD-088D-46D9-B9AE-79511AB2BDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD4B3FD-088D-46D9-B9AE-79511AB2BDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD4B3FD-088D-46D9-B9AE-79511AB2BDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD4B3FD-088D-46D9-B9AE-79511AB2BDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
